@@ -1,4 +1,4 @@
-# Redisse demo
+# Redisse demo du 29-03-2020
 
 Redisse is a Redis-backed Ruby library for creating [Server-Sent
 Events](http://www.w3.org/TR/eventsource/), publishing them from your
